@@ -14,7 +14,6 @@ git config --global user.email "your_email@whatever.com"
 git init
 ```
 
----
 <br />
 
 ## Индексация и коммиты
@@ -43,7 +42,6 @@ git log
 
 [Другие опции](https://git-scm.com/docs/git-log)
 
----
 <br />
 
 ## Работа с ветками
