@@ -13,7 +13,9 @@ git config --global user.email "your_email@whatever.com"
 ```bash
 git init
 ```
+
 ---
+<br />
 
 ## Индексация и коммиты
 
@@ -40,7 +42,9 @@ git log
 Однострочная история: `--pretty=oneline`
 
 [Другие опции](https://git-scm.com/docs/git-log)
+
 ---
+<br />
 
 ## Работа с ветками
 
