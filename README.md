@@ -14,6 +14,16 @@ git config --global user.email "your_email@whatever.com"
 git init
 ```
 
+#### Создать копию репозитория
+```bash
+git clone <имя репозитория>
+```
+
+#### Подключение к удаленному репозиторию
+```bash
+git remote add origin <URL>
+```
+
 <br />
 
 ## Индексация и коммиты
